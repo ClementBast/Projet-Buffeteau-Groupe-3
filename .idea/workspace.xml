@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d67158f1-1a01-44ae-9cad-2da9ef8075d6" name="Changes" comment="v1 projet">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/Entities/Demande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/Entities/Soutien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/Tools/ConnexionBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/Tools/ServiceDemandes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/ProjetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projetgroupe3/ProjetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/projetgroupe3/projet-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/projetgroupe3/projet-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XG1wcY0zl66gnWSi788Ax1Hazz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/SIO/TP5",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.18045977"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.projetgroupe3.ProjetApplication" />
+      <module name="Projetgroupe3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d67158f1-1a01-44ae-9cad-2da9ef8075d6" name="Changes" comment="" />
+      <created>1698240841640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698240841640</updated>
+    </task>
+    <task id="LOCAL-00001" summary="v1 projet">
+      <option name="closed" value="true" />
+      <created>1698240884205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698240884205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="v1 projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1 projet" />
+  </component>
+</project>
